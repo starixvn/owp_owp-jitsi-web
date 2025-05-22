@@ -11,7 +11,7 @@ ENV JICOFO_AUTH_USER=focus \
 	XMPP_SERVER=nap_owp_jitsi_prosody_LOCAL \
 	XMPP_BOSH_URL_BASE=http://nap_owp_jitsi_prosody_LOCAL:5280 \
 	ENABLE_LETSENCRYPT=0 \
-	PUBLIC_URL=https://jitsi.nexdev.net \
+	PUBLIC_URL=https://jitsiweb.nexdev.net \
     TZ=UTC
 
 # Expose ports used by Jitsi Web
